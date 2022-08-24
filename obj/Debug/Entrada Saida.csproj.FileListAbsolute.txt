@@ -1,0 +1,7 @@
+C:\WorkspaceLediane\Entrada Saida\obj\Debug\Entrada Saida.csproj.AssemblyReference.cache
+C:\WorkspaceLediane\Entrada Saida\obj\Debug\Entrada Saida.csproj.CoreCompileInputs.cache
+C:\WorkspaceLediane\Entrada Saida\bin\Debug\Entrada Saida.exe.config
+C:\WorkspaceLediane\Entrada Saida\bin\Debug\Entrada Saida.exe
+C:\WorkspaceLediane\Entrada Saida\bin\Debug\Entrada Saida.pdb
+C:\WorkspaceLediane\Entrada Saida\obj\Debug\Entrada Saida.exe
+C:\WorkspaceLediane\Entrada Saida\obj\Debug\Entrada Saida.pdb
